@@ -1,6 +1,6 @@
 <h1>Timeout Coding Challenge - Karl Charles</h1>
 
-<span>The Application build with Vue and JSON-server. The App will show possible venues depending on all of the attending employees preferences.
+<span>The Application is built with Vue and JSON-server. The App will show possible venues depending on all of the attending employees preferences.
 </span>
 
 
