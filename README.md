@@ -1,5 +1,11 @@
 <h1>Timeout Coding Challenge - Karl Charles</h1>
 
+<span>The Application build with Vue and JSON-server. The App will show possible venues depending on all of the attending employees preferences.
+</span>
+
+
+<br><br><br>
+
 Step 1: in the terminal - `cd/api && npm install`
 
 Step 2: `npm run start`. This will startup the json-server
