@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="7e910700-6b3f-452d-9975-e6fcd083cdb9" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/api/node_modules/.bin/is-ci" afterDir="false" />
@@ -28402,6 +28403,9 @@
       <change afterPath="$PROJECT_DIR$/social-events/node_modules/yorkie/src/utils/get-hook-script.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/social-events/node_modules/yorkie/src/utils/is.js" afterDir="false" />
     </list>
+=======
+    <list default="true" id="7e910700-6b3f-452d-9975-e6fcd083cdb9" name="Default Changelist" comment="" />
+>>>>>>> develop
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28467,7 +28471,10 @@
         <option value="$PROJECT_DIR$/social-events/package.json" />
         <option value="$PROJECT_DIR$/social-events/test/App.spec.js" />
         <option value="$PROJECT_DIR$/api/.gitignore" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/.gitignore" />
+=======
+>>>>>>> develop
       </list>
     </option>
   </component>
@@ -28594,7 +28601,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566464736215</updated>
+<<<<<<< HEAD
       <workItem from="1566464737659" duration="20291000" />
+=======
+      <workItem from="1566464737659" duration="19721000" />
+>>>>>>> develop
     </task>
     <servers />
   </component>
@@ -28613,6 +28624,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="20291000" />
   </component>
   <component name="ToolWindowManager">
@@ -28621,12 +28633,25 @@
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24975075" />
+=======
+    <option name="totallyTimeSpent" value="19721000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2048" height="1208" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24975075" />
+>>>>>>> develop
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="GraphQL" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" visible="true" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" />
+>>>>>>> develop
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
